@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\tcpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\signup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|c:\\users\\nh\u00E2n\\desktop\\uit leraning\\t\u00E0i li\u1EC7u s\u1EB5n\\k\u00EC 3\\l\u1EADp tr\u00ECnh m\u1EA1ng c\u0103n b\u1EA3n\\l\u00FD thuy\u1EBFt\\exercise3\\exercise3_nt106.q12_tcpclient\\exercise3_nt106.q12_tcpclient\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{111CB0F2-454F-4D38-AA5B-C2001C9814B9}|Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient.csproj|solutionrelative:exercise3_nt106.q12_tcpclient\\signin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 279,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:08:27.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SignUp.cs",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:07:39.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SignIn.cs",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAswBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T07:06:47.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TCPClient.cs",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\TCPClient.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\TCPClient.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\TCPClient.cs",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\TCPClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:47:20.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SignUp.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\SignUp.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignUp.cs [Design]",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\SignUp.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:41:26.114Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SignIn.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\SignIn.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\SignIn.cs [Design]",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\SignIn.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:41:15.182Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Program.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\Program.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Program.cs",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:40:57.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "RelativeDocumentMoniker": "Exercise3_NT106.Q12_TCPClient\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Nh\u00E2n\\Desktop\\UIT Leraning\\T\u00E0i Li\u1EC7u S\u1EB5n\\K\u00EC 3\\L\u1EADp Tr\u00ECnh M\u1EA1ng C\u0103n B\u1EA3n\\L\u00FD thuy\u1EBFt\\Exercise3\\Exercise3_NT106.Q12_TCPClient\\Exercise3_NT106.Q12_TCPClient\\Dashboard.cs [Design]",
+              "RelativeToolTip": "Exercise3_NT106.Q12_TCPClient\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T06:40:54.813Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 101,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
